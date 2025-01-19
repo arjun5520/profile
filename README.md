@@ -37,7 +37,7 @@ I'm a 20 y/o Full Stack Web Developer and a Software Developer
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/saad0918/count.svg" />
+  <img src="https://profile-counter.glitch.me/arjun5520/count.svg" />
 </p>
 
 ---
