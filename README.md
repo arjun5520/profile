@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13D3CB&size=22&vCenter=true&multiline=true&width=397&height=49&lines=Hey+there+%F0%9F%91%8B!+I'm+arjun)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=13D3CB&size=22&vCenter=true&multiline=true&width=397&height=49&lines=Hey+there+%F0%9F%91%8B!+I'm+Mallikarjun)](https://git.io/typing-svg)
 
 I'm a 20 y/o Full Stack Web Developer and a Software Developer 
 
@@ -29,8 +29,8 @@ I'm a 20 y/o Full Stack Web Developer and a Software Developer
 # Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saad0918&show_icons=true&theme=algolia" /> &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saad0918&theme=algolia&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjun5520&show_icons=true&theme=algolia" /> &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun5520&theme=algolia&show_icons=true" />
 <p>
   
 ---
@@ -41,4 +41,4 @@ I'm a 20 y/o Full Stack Web Developer and a Software Developer
 </p>
 
 ---
-[Linkedin]: https://www.linkedin.com/in/md-saad-ali-83871428b/
+[Linkedin]: https://www.linkedin.com/in/mallikarjun-0b88b1328/
