@@ -11,11 +11,11 @@ I'm a 20 y/o Full Stack Web Developer and a Software Developer
 
 ## Programming Languages I know:
 
-* C++
+* JAVA
 * Python
-* Html
-* Javascript
-* MongoDb
+* Html, CSS
+* Javascript, REACT.JS
+* NODE.JS, EXPRESS.JS and MongoDb
 
 ## Certifications 
 
